@@ -1,0 +1,5 @@
+* Create display system for Traveling Salesman visualization
+
+* Implement single threaded ACO
+
+* Implement Multithreaded ACO
